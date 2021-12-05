@@ -1,4 +1,5 @@
 {
+ "start_url": "index.htm",
  "name": "Júnior Óticas - Tour Virtual 360°",
  "description": "R. Antônio de Oliveira Salazar, 347 - Jardim Sao Salvador, Taboão da Serra - SP, 06775-470",
  "display": "fullscreen",
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "theme_color": "#FFFFFF"
 }
